@@ -1,4 +1,5 @@
 git init = Criando um repositorio local.
+git remote add origin - ADD Repositorio remoto no localgit.
  ou
 git clone <link_repositorio>
 
@@ -9,8 +10,6 @@ git add . = Adicionou todos os arquivos p/ serem comitados.
 git commit -m "DESCRIÇÃO" - Salvando as alterações no repositorio local.
 
 git log - Visulaizar histório dos Commit (quem alterou: nome, e-mail, data etc).
-
-git remote add origin - ADD Repositorio remoto no localgit.
  
 git push - Subir os Commit p/ rep. remoto.
 

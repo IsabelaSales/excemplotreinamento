@@ -1,4 +1,6 @@
-git git init = Criando um repositorio local.
+git init = Criando um repositorio local.
+ ou
+git clone <link_repositorio>
 
 git status = Para saber o status do repositoria, Pra saber se tem alteração.
 
@@ -14,4 +16,5 @@ git push - Subir os Commit p/ rep. remoto.
 
 gir pull - Trazer os Commit do repositorio remoto p/ o rep. local.
  
- visualizando o comando status
+Visualizando o comando status
+
